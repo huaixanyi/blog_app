@@ -1,0 +1,10 @@
+/.idea/
+/db.json
+/package-lock.json
+
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
